@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../huatai_strategy/all_file"
+		},
+		{
+			"path": "../../backtest_dt"
+		},
+		{
+			"path": "../own"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
